@@ -1,0 +1,18 @@
+{
+    "name": "elghazzali/contact",
+    "description": "package contact form save and  send contact form",
+    "type": "library",
+    "authors": [
+        {
+            "name": "mouhssine el ghazzali",
+            "email": "mouhssine.elghazzali@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Elghazzali\\Contact\\": "src/"
+        }
+    }
+}
